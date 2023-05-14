@@ -1,0 +1,7 @@
+{
+  "name": "EMC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
